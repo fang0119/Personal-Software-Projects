@@ -303,6 +303,6 @@ void makeCalculator(double size) {
 
 void main() {
 	
-	makeCalculator(300); //500 is the native size, but calculator can scale
+	makeCalculator(300); //500 is the native size, but the calculator can scale
 
 }
