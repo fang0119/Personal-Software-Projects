@@ -1,2 +1,2 @@
 # Personal-Projects
-This is a repository for some of my code and past projects, written in C++ and Python.
+This is a repository for some of my personal projects and code snippets, written in C++ and Python.
